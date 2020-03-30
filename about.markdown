@@ -20,8 +20,9 @@ engineers are working full-time, 7 days a week, on the project, in direct
 contact with the team of ICU doctors on the ground.
 
 Most of the data handled by ICUBAM is less than 1 hour old. ICUBAM integrates
-with the ministry of health's back-end system for sending data upstream to
-inform authorities and retrieving data to synchronise with other data sources.
+with the ministry of health (only ARS Est for now)'s back-end system for
+sending data upstream to inform authorities and retrieving data to synchronise
+with other data sources.
 
 This software is open-source and made available
 [on GitHub](https://github.com/icubam/icubam).
