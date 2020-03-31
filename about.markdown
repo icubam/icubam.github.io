@@ -31,3 +31,17 @@ It will soon be released as a one-click deployable docker container.
 
 You can contact the team for deployment information or general experience
 sharing at contact@icubam.net.
+
+<br>
+<hr>
+<br>
+<div style="text-align: center;">
+  <h3>brought to you by</h3>
+  <img src="/assets/images/inria-small.png" height="90px" />
+
+  <img src="/assets/images/x-small.png" height="90px" />
+
+  <img src="/assets/images/udl-small.png" height="60px" />
+
+  <img src="/assets/images/chru_nancy-small.png" height="60px" />
+</div>
