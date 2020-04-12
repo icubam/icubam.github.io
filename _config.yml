@@ -1,10 +1,11 @@
 title: 🛏 🏥  ICU Bed Activity Monitor
 email: contact@icubam.net
 description: >-
-  ICUBAM provides real-time information on intensive care unit (ICU) bed
-  availability in French hospitals. Data is directly obtained from doctors
-  working inside ICU by sending them SMS with a HTTP link to a form that they
-  can fill in 15 seconds.
+  ICUBAM is an open-source project built to help provide real-time information 
+  on intensive care unit (ICU) bed availability in French hospitals. Data is 
+  directly obtained from doctors working inside ICU by sending them SMS with 
+  a HTTP link to a form that they can fill in 15 seconds.  ICUBAM can be easily
+  deployed for other locales.
 baseurl: ""
 url: ""
 github_username:  icubam
